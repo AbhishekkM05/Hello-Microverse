@@ -1,15 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name 
+Hello Microverse
 
-> Description the project.
-
+> Description the project
+Project is writing Hello Microverse
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages 
+HTML,CSS
 - Technologies used
+Linters 
 
 ## Live Demo (if available)
 
@@ -39,16 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## Authors
+Abhishek Mishra
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/AbhishekkM05)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
