@@ -1,7 +1,7 @@
 # Project Name
 Hello Microverse 
 > Description the project.
-The Project Displays hello Microverse 
+The Project Displays "Hello Microverse!" 
 
 ## Built With
 
@@ -16,7 +16,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 A code Editor, Git 
 
-### Install 
+### Clone 
 https://github.com/AbhishekkM05/Hello-Microverse.git
 
 ## Authors
@@ -25,7 +25,7 @@ https://github.com/AbhishekkM05/Hello-Microverse.git
 
 - GitHub: (https://github.com/AbhishekkM05)
 - Twitter: (https://twitter.com/KPrinceM05)
-- LinkedIn: www.linkedin.com/in/abhishek-kumar-mishra-bb5bb4101/        
+- LinkedIn: (www.linkedin.com/in/abhishek-kumar-mishra-bb5bb4101/)       
 
 
 
