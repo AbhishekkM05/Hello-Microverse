@@ -1,19 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+Hello Microverse 
 > Description the project.
-
+The Project Displays hello Microverse 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages : HTML and CSS
+- Technologies used : Linters 
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -25,38 +22,25 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+A code Editor, Git 
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+### Install 
+https://github.com/AbhishekkM05/Hello-Microverse.git
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbhishekkM05)
+- Twitter: [@twitterhandle](https://twitter.com/KPrinceM05)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/            abhishek-kumar-mishra-bb5bb4101/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Thank you Microverse for the opportunity.
 
 ## 📝 License
 
